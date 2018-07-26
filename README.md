@@ -1,8 +1,10 @@
 # Bounding Box detection project
 ## Software tools specification:
 The project was implemented in using the following tools:
+
 **Programing Language:** 
 - Python 3.6
+
 **Libraries needed**
 - OpenCV
 
